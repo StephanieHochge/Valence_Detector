@@ -1,0 +1,10 @@
+"female_face": https://www.pexels.com/photo/woman-wearing-black-spaghetti-strap-top-415829/
+"male_face": https://www.pexels.com/photo/man-in-brown-polo-shirt-614810/
+"face_video": https://pixabay.com/de/videos/traurig-schmerz-grusel-unheimlich-34302/
+"mountain_video": https://pixabay.com/de/videos/fujisan-morgen-wolken-japan-173522/
+"people": https://pixabay.com/de/photos/menschen-gesichter-mann-frauen-740259/
+"group_laughing": https://www.pexels.com/photo/group-of-people-standing-infront-of-blackboard-3184432/
+"angry_face": https://pixabay.com/de/photos/w%C3%BCtend-ver%C3%A4rgert-schmollen-gesicht-2191104/
+"landscape": https://pixabay.com/de/photos/hallstatt-%C3%B6sterreich-bergsee-see-3609863/
+"screenshot_valence_detector": Own representation. 
+

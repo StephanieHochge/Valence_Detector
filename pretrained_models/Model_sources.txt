@@ -1,0 +1,5 @@
+"emonet_5.pth": https://github.com/face-analysis/emonet/blob/master/pretrained/emonet_5.pth
+"emonet_v1.py": https://github.com/face-analysis/emonet/blob/master/emonet/models/emonet.py
+"enet_b0_8_best_vgaf.pt: https://github.com/av-savchenko/face-emotion-recognition/blob/main/models/affectnet_emotions/enet_b0_8_best_vgaf.pt
+"final_enet": Model parameters of the final model that was trained within the project.  
+
